@@ -1,0 +1,60 @@
+baseurl = "https://eliden123.github.io/"
+title = "前~端~影"
+theme = "hugo-nederburg-theme"
+languageCode = "zh_CN"
+disqusShortname = "eliden"
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+
+[params]
+  slogan = "~唯有阅读~"
+  #usepostimgfolder = true
+  description = "Describe your website" # meta description
+  author = "Eliden"
+  authorLink = ""
+  bio = [""]
+  copyright = ["&copy; 2018",]
+
+  [[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  name = "摄影"
+  url = "contact/"
+  weight = 2
+
+  [[menu.main]]
+  name = "关于我"
+  url = "about/"
+  weight = 3
+
+
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below (it is also used in Gravatar for the bio).
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = ""
+
+# this will also be in author bio if there is no writer.
+  [params.social]
+     email         = "email@example.com"
+     stackoverflow = "full profile url in stackoverflow"
+     instagram     = "full profile url in instagram"
+     github        = "full profile url in github"
+   #facebook      = "full Social profile url in facebook"
+   #googleplus    = "full profile url in googleplus"
+   #twitter       = "full profile url in twitter"
+   #linkedin      = "full profile url in linkedin"
+   pinterest     = "full profile url in pinterest"
+  #rss           = true
