@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 前~端~影</title>
+    <link>https://Eliden123.github.io/post/</link>
+    <description>Recent content in Posts on 前~端~影</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://Eliden123.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>为什么要写博客?</title>
+      <link>https://Eliden123.github.io/post/purpose/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Eliden123.github.io/post/purpose/</guid>
+      <description>&lt;p&gt;写博客是一件很浪费时间的事情，那为什么还要写博客呢？
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>pc端 css-reset 代码</title>
+      <link>https://Eliden123.github.io/post/reset/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Eliden123.github.io/post/reset/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML5笔记</title>
+      <link>https://Eliden123.github.io/post/html5/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Eliden123.github.io/post/html5/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>css里百分比总结</title>
+      <link>https://Eliden123.github.io/post/css%E9%87%8C%E7%99%BE%E5%88%86%E6%AF%94%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://Eliden123.github.io/post/css%E9%87%8C%E7%99%BE%E5%88%86%E6%AF%94%E6%80%BB%E7%BB%93/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
